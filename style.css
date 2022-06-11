@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("Imgs/background-thewitcher.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+main{
+    background-image: url("Imgs/thewitcher.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: -40px auto;
+}
+
+/* HEADER */
+
+.conteiner-logo{
+    margin-top: 10px;
+    margin-left: 90px;
+    display: inline-block;
+}
+
+.conteiner-logo img{
+    width: 50px;
+}
+
+.conteiner-title{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+}
+
+.conteiner-title h3{
+    margin-left: 12px;
+    color: white;
+    font-weight: 100;
+}
+
+.conteiner-list{
+    margin-left: 530px;
+    display: inline-block;
+}
+
+.conteiner-list a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.conteiner-list li{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    display: inline;
+    margin-left: 35px;
+}
+
+.conteiner-list li:hover{
+    color: #BA0A0A
+}
+
+/* MAIN */
+
+.conteiner-contents{
+    text-align: center;
+}
+
+.conteiner-contents img{
+    width: 340px;
+    margin-top: 320px;  
+}
+
+.conteiner-contents button{
+    margin-top: 20px;
+    background: linear-gradient(180deg, white, black, red);
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: 0.1s all;
+}
+
+.conteiner-contents button:hover{
+    transform: scale(1.1);
+}
