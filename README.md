@@ -1,10 +1,10 @@
-## 🧙‍♂️ Projeto The Witcher - Projeto Vermelho
+## Projeto The Witcher - Projeto Vermelho 🧙‍♂️
 
-Este projeto é uma página temática inspirada na série The Witcher, desenvolvida exclusivamente com display: block, inline e inline-block.
+Este projeto é uma página temática inspirada na série ***The Witcher***, desenvolvida exclusivamente com display: block, inline e inline-block.
 
 ---
 
-### 🛠️ Tecnologias utilizadas
+### Tecnologias utilizadas 🛠️
 
 **HTML5**: Para a estruturação semântica da página.
 
